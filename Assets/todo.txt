@@ -1,0 +1,8 @@
+PLAYER PHYSICS
+ - Wall jump forces send character much further depending on timing of input
+ - Don't allow to detach from wall until timer is met
+ - Implement wall leap (input + wall jump)
+ - Air physics are too fast
+ - Fix / Implement Coyote timing + Input Buffering
+ - Ensure ground / air jumps logic is correct (use jumps in certain scenarios)
+ - Do something about reducing velocity if you hit your head or you barely clip a ledge
